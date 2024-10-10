@@ -1,0 +1,6 @@
+@Atl_HostAddress = http://localhost:5038
+
+GET {{Atl_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
